@@ -23,6 +23,7 @@
 }
 
 .image-container {
+    padding-top: 40px;
     display: flex;
     flex-wrap: wrap;
     justify-content: space-around;
@@ -34,7 +35,7 @@
 }
 
 .image-card img {
-    width: 100px;
+    width: 150px;
 }
 
 .button {
